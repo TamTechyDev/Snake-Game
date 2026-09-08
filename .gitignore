@@ -1,0 +1,13 @@
+# Agnes working files
+.agnes/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
