@@ -1,4 +1,4 @@
-# 🐍 Retro Snake
+#  Retro Snake
 
 [![Stars](https://img.shields.io/badge/stars-?style=social)](https://github.com/TamTechyDev/Snake-Game/stargazers)
 [![Forks](https://img.shields.io/github/forks/TamTechyDev/Snake-Game?label=Forks&style=social)](https://github.com/TamTechyDev/Snake-Game/forks)
@@ -22,29 +22,22 @@
 
 On touch devices, an on-screen **D-pad** appears automatically.
 
-## ✨ Features
+##  Features
 
-- 🌈 **Rainbow-gradient snake** — kawaii eyes, rosy cheeks, and a little smile that follow the direction you move
-- 🍎 **Glossy apple food** with a leaf and a soft pulse animation
-- 💥 **Walls kill!** Hitting the boundary or your own body ends the game
-- ⚡ **Progressive difficulty** — speed levels up every 5 apples
-- 🔊 **Retro sound effects** generated with the Web Audio API (no audio files needed)
-- 🏆 **Persistent high score** saved in `localStorage`
-- ✨ **Smooth movement** via per-frame interpolation between ticks
+-  **Rainbow-gradient snake** — kawaii eyes, rosy cheeks, and a little smile that follow the direction you move
+-  **Glossy apple food** with a leaf and a soft pulse animation
+-  **Walls kill!** Hitting the boundary or your own body ends the game
+-  **Progressive difficulty** — speed levels up every 5 apples
+-  **Retro sound effects** generated with the Web Audio API (no audio files needed)
+-  **Persistent high score** saved in `localStorage`
+-  **Smooth movement** via per-frame interpolation between ticks
 
-## ▶️ Play It
+##  Play It
 
-**Option A — Local:**
-Open `index.html` in any modern browser.
+Play in any modern browser.
+play at:  `https://TamTechyDev.github.io/Snake-Game/`
 
-**Option B — Online (GitHub Pages):**
-1. In this repo, go to **Settings → Pages**
-2. Under *Build and deployment*, set **Source = "Deploy from a branch"**
-3. Branch = `main`, Folder = `/ (root)`, then click **Save**
-4. Wait a minute and play at:
-   `https://TamTechyDev.github.io/Snake-Game/`
-
-## 🛠️ Tech
+##  Tech
 
 Pure **HTML + CSS + JavaScript** using Canvas 2D. Everything lives in a single `index.html` file.
 
@@ -53,7 +46,7 @@ Pure **HTML + CSS + JavaScript** using Canvas 2D. Everything lives in a single `
 - Web Audio API for retro-style SFX
 - `localStorage` for the high score
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](./LICENSE).
 
